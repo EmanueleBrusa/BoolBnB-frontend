@@ -1,0 +1,21 @@
+@import '/node_modules/@fortawesome/fontawesome-free/css/all.min.css';
+@import "/node_modules/bootstrap/scss/bootstrap.scss";
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-control {
+    z-index: 0 !important;
+}
+
+.btn-color {
+    background-color: #EF7039;
+}
+
+.btn-color:hover {
+    background-color: #EF7039;
+}
